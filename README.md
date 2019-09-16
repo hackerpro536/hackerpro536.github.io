@@ -25,8 +25,7 @@ Tùy từng lĩnh vực bất động sản mà trang web bất động sản c�
 - Module quản lý thăm dò (Thăm dò ý kiến khách hàng ?)
 - Và nhiều module đặc thù khác trong lĩnh vực bất động sản.
 Lưu ý: Hệ thống module có thể tùy chọn tùy theo mục tiêu của doanh nghiệp bất động sản như: website dự án bất động sản, website kinh doanh nhà đất, website tin tức bất động sản, <a href="https://lptech.asia/dich-vu/dich-vu-thiet-ke-website-chuyen-nghiep-tai-ho-chi-minh">Dịch vụ thiết kế website chuyên nghiệp tại Hồ Chí Minh</a> cho doanh nghiệp bất động sản. Tùy từng mục tiêu và loại hình doanh nghiệp bất động sản mà sử dụng module thích hợp.
-### Support or Contact
-Thông tin liên hệ
+### Thông tin liên hệ
 Nếu bạn có thắc mắc gì, có thể gửi yêu cầu cho chúng tôi, và chúng tôi sẽ liên lạc lại với bạn sớm nhất có thể .
 
 - Công ty TNHH TMĐT Công nghệ LP
